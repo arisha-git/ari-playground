@@ -7,3 +7,5 @@ Done
 
 ## Testing GitHub achievements.
 Adding a reviewer is important
+
+Pair Extraordinaire test now!
